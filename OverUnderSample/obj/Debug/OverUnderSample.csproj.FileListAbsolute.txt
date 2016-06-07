@@ -1,0 +1,12 @@
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\bin\Debug\OverUnderSample.exe.config
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\obj\Debug\OverUnderSample.csprojResolveAssemblyReference.cache
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\bin\Debug\OverUnderSample.exe
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\bin\Debug\OverUnderSample.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\obj\Debug\OverUnderSample.exe
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\Algorithm\Algorithms\OverUnderSample\obj\Debug\OverUnderSample.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\bin\Debug\OverUnderSample.exe.config
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\bin\Debug\OverUnderSample.exe
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\bin\Debug\OverUnderSample.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\obj\Debug\OverUnderSample.csprojResolveAssemblyReference.cache
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\obj\Debug\OverUnderSample.exe
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\OverUnderSample\obj\Debug\OverUnderSample.pdb

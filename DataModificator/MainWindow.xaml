@@ -1,0 +1,21 @@
+﻿<controls:MetroWindow x:Class="DataModificator.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      mc:Ignorable="d"
+                      xmlns:local="clr-namespace:DataModificator"
+                      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      Title="MainWindow"
+                      Height="600"
+                      Width="800"
+                      Background="Silver"
+                      d:DataContext="{d:DesignInstance local:MainWindow}">
+
+    <Grid Height="500">
+        <ContentControl Content="{Binding PieView}"/>
+    </Grid>
+
+    <!-- your content -->
+
+</controls:MetroWindow>

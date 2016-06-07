@@ -1,0 +1,10 @@
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\Live-Charts\Core\bin\Debug\LiveCharts.dll
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\Live-Charts\Core\bin\Debug\LiveCharts.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\Live-Charts\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\Live-Charts\Core\obj\Debug\LiveCharts.dll
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\Live-Charts\Core\obj\Debug\LiveCharts.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\Core\bin\Debug\LiveCharts.dll
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\Core\bin\Debug\LiveCharts.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\Core\obj\Debug\LiveCharts.dll
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\Core\obj\Debug\LiveCharts.pdb
+D:\Pobrane\OneDrive\Studia\MGR !\I\RSM\Lab\WPF_App\DataModificator\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
